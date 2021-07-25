@@ -689,7 +689,7 @@ void Lib::der(char st[],int b,int x)
 void Lib::get()
 {
    int i;
-        cout<<"\n\t*********** LIBRARY MANAGEMENT SYSTEM ***********\n"<<"\n\t\t\t    L M S C++\n";
+        cout<<"\n\t*********** LIBRARY MANAGEMENT SYSTEM ***********\n"<<"\n\t\t\t    by VINEET KUMAR\n";
         cout<<"\n\t\t>>Please Choose Any Option To login \n";
         cout<<"\n\t\t1.Student\n\n\t\t2.Librarian\n\n\t\t3.Close Application\n";
         cout<<"\n\t\tEnter your choice : ";
