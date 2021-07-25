@@ -9,7 +9,7 @@ add, delete books, and Issue books. The other main feature contains re-issue
 books and returns book. 
 
 
-<img src="lms.png"> <br/>
+<img src="lms.PNG"> <br/>
 Features:
 
     Login System
